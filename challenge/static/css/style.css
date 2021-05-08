@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("/static/images/jumbotron_bg.jpeg");
+    background-size: cover;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+body {
+    background-image: url("/static/images/jumbotron_bg.jpeg");
+}
+
+.container {
+    background-color: black;
+}
+
+.bar {
+    background-color: black;
+}
